@@ -1,0 +1,3 @@
+student name: Beau de Wit
+student number: 648559
+student class: HAINF1SA
